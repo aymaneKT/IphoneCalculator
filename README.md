@@ -28,7 +28,7 @@ A simple calculator built with HTML, CSS, and JavaScript.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/aymanekt/iphoneCalculator.git
+   https://github.com/aymaneKT/IphoneCalculator.git
    ```
 2. Open the `index.html` file in a browser.
 3. Use the calculator by clicking the buttons.
